@@ -1,0 +1,23 @@
+{
+    "name": "ph/weathertest",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "falco56",
+            "email": "pierre.henry@ecole-air.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "cmfcmf/openweathermap-php-api": "^3.2",
+        "hassankhan/config": "^2.2"
+    },
+	"autoload": {
+		"psr-4": {
+				"Falco56\\WEATHERTEST\\": "src/"
+		}
+	}
+}
