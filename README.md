@@ -25,10 +25,11 @@ Le fichier config.json est de la forme :
 
 
 Il faut ensuite modifier les différentes valeurs avec celles désirées : 
-			XXX : clé API openweathermap
-			YYY : nom de la ville (possibilité de tester le nom de votre ville : https://openweathermap.org/find)
-			ZZZ : mode (standard, metric, imperial)
-			AAA : code langue (langues compatibles : https://openweathermap.org/current#multi)
+
+			- XXX : clé API openweathermap
+			- YYY : nom de la ville (possibilité de tester le nom de votre ville : https://openweathermap.org/find)
+			- ZZZ : mode (standard, metric, imperial)
+			- AAA : code langue (langues compatibles : https://openweathermap.org/current#multi)
 			
 			
 
